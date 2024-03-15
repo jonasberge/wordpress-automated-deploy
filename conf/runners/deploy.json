@@ -1,0 +1,5 @@
+{
+  "name": "3. Exportierte Seiten veröffentlichen",
+  "description": "Die aktuellen Wordpress-Seiten im Internet veröffentlichen. Sobald das Skript fertig ist, kann es noch einige Minuten dauern, bis die Änderungen tatsächlich im Internet sichtbar sind.",
+  "script_path": "../scripts/deploy-all.sh"
+}

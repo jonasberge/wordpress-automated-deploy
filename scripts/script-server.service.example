@@ -1,0 +1,13 @@
+[Unit]
+Description=Script Server Service
+Wants=network.target
+After=network.target
+
+[Service]
+ExecStart=/path/to/venv/bin/python3 /path/to/script-server/launcher.py
+Restart=always
+User=user
+Group=user
+
+[Install]
+WantedBy=multi-user.target

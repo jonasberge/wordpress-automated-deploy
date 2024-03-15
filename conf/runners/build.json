@@ -1,0 +1,5 @@
+{
+  "name": "1. Wordpress-Seiten exportieren",
+  "description": "Die aktuellen Wordpress-Seiten als statische Dateien exportieren (reine HTML-Dateien). Die Daten werden noch nicht online gestellt bzw. noch nicht irgendwo hochgeladen. Mit Schritt 2 kann die exportierte Seite vor der Veröffentlichung (Schritt 3) betrachtet und überprüft werden.",
+  "script_path": "../scripts/build.sh"
+}

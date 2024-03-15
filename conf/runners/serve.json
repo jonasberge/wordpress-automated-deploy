@@ -1,0 +1,5 @@
+{
+  "name": "2. Vorschau für exportierte Seiten",
+  "description": "Die im ersten Schritt exportierten statischen Seiten überprüfen und lokal betrachten, bevor diese ins Internet gestellt werden. Dieses Skript läuft so lange, bis es gestoppt wird. Das Skript also stoppen, nachdem die exportierten Seiten überprüft wurden.",
+  "script_path": "../scripts/serve.sh"
+}

@@ -1,0 +1,9 @@
+build
+script-server
+
+.htpasswd
+scripts/.env
+scripts/script-server.service
+
+*.de
+*.eu
