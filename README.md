@@ -2,6 +2,8 @@
 
 Deploying local Wordpress sites statically to GitHub Pages through a simple web interface.
 
+![Screenshot of the script server web interface](./docs/2024-03-15_01-59.png)
+
 ## Requirements
 
 Staatic must be installed on the Wordpress server: https://wordpress.org/plugins/staatic
